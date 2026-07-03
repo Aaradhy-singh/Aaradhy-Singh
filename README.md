@@ -40,10 +40,22 @@
 ## 🟣 About Me
 
 ```yaml
-name: "Aaradhy Singh"
-role: "First-Year B.Tech CSE Student & AI/Full-Stack Developer"
-focus: ["Applied Generative AI", "Prompt Engineering Systems", "Full-Stack AI Web Apps"]
-philosophy: "Ship real, deployed artifacts, not tutorials followed blindly."
+name: Aaradhy Singh
+title: AI & Full-Stack Developer
+
+building:
+  - AI Applications
+  - Full-Stack Products
+  - Generative AI Systems
+
+learning:
+  - LLM Engineering
+  - AI Agents
+  - Cloud & DevOps
+
+philosophy: >
+  Ship production-ready projects.
+  Learn by building.
 ```
 
 I'm a first-year Computer Science student at Lovely Professional University, building production-grade AI-integrated web applications independently, end to end: architecture, frontend, API integration, and deployment. My work centers on applied generative AI, wiring LLM APIs into real products rather than treating them as toys, alongside full-stack engineering with React, TypeScript, and modern tooling.
