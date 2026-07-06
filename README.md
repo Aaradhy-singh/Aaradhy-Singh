@@ -225,14 +225,10 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 ## 🟣 GitHub Analytics
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
 <img src="./profile/streak.svg" width="48%"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhy-singh&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
-
 </div>
-
 ---
 
 ## 🟣 GitHub Trophies
