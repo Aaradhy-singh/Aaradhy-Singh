@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aaradhy%20Singh&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=28&desc=CSE%20Student%20%7C%20AI-Led%20Developer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aaradhy%20Singh&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Applied+Generative+AI+%26+Prompt+Systems;Full-Stack+AI+Web+Applications;B.Tech+CSE+%40+LPU+%E2%80%A2+Class+of+2030;Building+in+Public%2C+One+Deploy+at+a+Time" alt="Typing SVG" />
@@ -41,22 +40,10 @@
 ## 🟣 About Me
 
 ```yaml
-name: Aaradhy Singh
-title: AI & Full-Stack Developer
-
-building:
-  - AI Applications
-  - Full-Stack Products
-  - Generative AI Systems
-
-learning:
-  - LLM Engineering
-  - AI Agents
-  - Cloud & DevOps
-
-philosophy: >
-  Ship production-ready projects.
-  Learn by building.
+name: "Aaradhy Singh"
+role: "First-Year B.Tech CSE Student & AI/Full-Stack Developer"
+focus: ["Applied Generative AI", "Prompt Engineering Systems", "Full-Stack AI Web Apps"]
+philosophy: "Ship real, deployed artifacts, not tutorials followed blindly."
 ```
 
 I'm a first-year Computer Science student at Lovely Professional University, building production-grade AI-integrated web applications independently, end to end: architecture, frontend, API integration, and deployment. My work centers on applied generative AI, wiring LLM APIs into real products rather than treating them as toys, alongside full-stack engineering with React, TypeScript, and modern tooling.
@@ -240,7 +227,7 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-singh&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD" width="48%"/>
-<img src="https://streak-stats.demolab.com/?user=Aaradhy-singh&theme=radical&hide_border=true&background=0D0221&stroke=8B5CF6&ring=A78BFA&fire=7C3AED&currStreakLabel=C4B5FD" width="48%"/>
+<img src="./profile/streak.svg" width="48%"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhy-singh&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=A78BFA&text_color=C4B5FD" width="48%"/>
 
@@ -272,11 +259,11 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-singh/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-singh/output/github-snake-dark.svg"/>
 
 </div>
 
-> Requires the `platane/snk` GitHub Action configured on this repo to generate this asset. Won't render until that workflow is set up and run at least once.
+> Generated daily via GitHub Actions (`Platane/snk`), rendered from your live contribution graph.
 
 ---
 
