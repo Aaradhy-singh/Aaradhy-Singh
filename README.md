@@ -259,7 +259,6 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 </div>
 
-> Generated daily via GitHub Actions (`Platane/snk`), rendered from your live contribution graph.
 
 ---
 
