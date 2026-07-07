@@ -230,17 +230,6 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 </p>
 
 
-## GitHub Trophies
-------------------
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Aaradhy-singh&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,Experience"
-  />
-</p>
-
----
-
 ## 🟣 Contribution Activity
 
 <div align="center">
