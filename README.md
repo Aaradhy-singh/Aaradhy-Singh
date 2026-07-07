@@ -228,15 +228,16 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaradhy-singh&theme=radical&hide_border=true&background=0D0221&ring=A78BFA&fire=8B5CF6&currStreakLabel=C4B5FD" />
 </p>
----
 
-## 🟣 GitHub Trophies
 
-<div align="center">
+## GitHub Trophies
+------------------
 
-<img src="https://github-profile-trophy.vercel.app/?username=Aaradhy-singh&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,Experience"/>
-
-</div>
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Aaradhy-singh&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8&title=Commits,Stars,PullRequest,Issues,Repositories,Followers,Experience"
+  />
+</p>
 
 ---
 
