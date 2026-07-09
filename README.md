@@ -40,22 +40,18 @@
 ## 🟣 About Me
 
 ```yaml
-name: Aaradhy Singh
-title: AI & Full-Stack Developer
+Name: Aaradhy Singh
+Title: AI-Led Developer
 
-building:
+Building:
   - AI Applications
-  - Full-Stack Products
+  - Frontend Products
   - Generative AI Systems
 
 learning:
   - LLM Engineering
   - AI Agents
-  - Cloud & DevOps
 
-philosophy: >
-  Ship production-ready projects.
-  Learn by building.
 ```
 
 I'm a first-year Computer Science student at Lovely Professional University, building production-grade AI-integrated web applications independently, end to end: architecture, frontend, API integration, and deployment. My work centers on applied generative AI, wiring LLM APIs into real products rather than treating them as toys, alongside full-stack engineering with React, TypeScript, and modern tooling.
