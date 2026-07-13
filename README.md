@@ -35,30 +35,13 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-singh/main/terminal-panel.svg" width="100%"/>
-</div>
-
 ---
 
 ## 🟣 About Me
 
-```yaml
-Name: Aaradhy Singh
-Title: AI-Led Developer
-
-Building:
-  - AI Applications
-  - Frontend Products
-  - Generative AI Systems
-
-learning:
-  - LLM Engineering
-  - AI Agents
-
-```
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-singh/main/terminal-panel.svg" width="100%"/>
+</div>
 
 I'm a first-year Computer Science student at Lovely Professional University, building production-grade AI-integrated web applications independently, end to end: architecture, frontend, API integration, and deployment. My work centers on applied generative AI, wiring LLM APIs into real products rather than treating them as toys, alongside full-stack engineering with React, TypeScript, and modern tooling.
 
