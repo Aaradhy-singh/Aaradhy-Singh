@@ -1,7 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="600" height="120">
-<defs><linearGradient id="g"><stop stop-color="#7C3AED"/><stop offset="1" stop-color="#22D3EE"/></linearGradient></defs>
-<circle cx="60" cy="60" r="35" fill="url(#g)"/><text x="42" y="70" fill="white" font-size="25">GH</text>
-<circle cx="200" cy="60" r="35" fill="url(#g)"/><text x="175" y="70" fill="white" font-size="25">in</text>
-<circle cx="340" cy="60" r="35" fill="url(#g)"/><text x="325" y="70" fill="white" font-size="25">@</text>
-<circle cx="480" cy="60" r="35" fill="url(#g)"/><text x="465" y="70" fill="white" font-size="25">↗</text>
-</svg>
