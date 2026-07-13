@@ -35,6 +35,12 @@
 
 </div>
 
+<br/>
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-singh/main/terminal-panel.svg" width="100%"/>
+</div>
+
 ---
 
 ## 🟣 About Me
