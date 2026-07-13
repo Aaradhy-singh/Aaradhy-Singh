@@ -43,6 +43,7 @@
 <img src="https://github.com/Aaradhy-singh/Aaradhy-Singh/blob/main/terminal-panel.svg" width="100%"/>
 </div>
 
+
 I'm a first-year Computer Science student at Lovely Professional University, building production-grade AI-integrated web applications independently, end to end: architecture, frontend, API integration, and deployment. My work centres on applied generative AI, wiring LLM APIs into real products rather than treating them as toys, alongside full-stack engineering with React, TypeScript, and modern tooling.
 
 I work solo on every project in this profile, which means I own the full stack: design, state management, third-party API orchestration, deployment, and post-launch iteration.
