@@ -52,7 +52,7 @@ I work solo on every project in this profile, which means I own the full stack: 
 
 ---
 
-## 🟣 Tech Stack
+## 🤖 Tech Stack
 
 **Languages**
 
@@ -84,7 +84,7 @@ I work solo on every project in this profile, which means I own the full stack: 
 
 ---
 
-## 🟣 Featured Projects
+## 📌 Featured Projects
 
 <details>
 <summary><b>🚀 SpaceShield — No-Backend Space & Defence News Aggregator</b></summary>
@@ -164,13 +164,13 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 ---
 
-## 🟣 Experience
+## 💼 Experience
 
 > No formal industry work experience yet. First-year student, actively evaluating legitimate AI/ML and full-stack internship opportunities through verified institutional channels only.
 
 ---
 
-## 🟣 Achievements
+## 🎖️ Achievements
 
 <div align="center">
 
@@ -178,13 +178,12 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 |---|---|
 | Independent Shipping | 4 deployed, functioning full-stack/AI projects built and shipped solo |
 | Certification Portfolio | Verified certifications across Oracle, Anthropic, AWS, Google, Microsoft, IBM, Hugging Face, JPMorgan Chase |
-| Fraud Detection | Independently identified and avoided two connected phishing/fraudulent internship schemes targeting students |
 
 </div>
 
 ---
 
-## 🟣 Certifications
+## 📜 Certifications
 
 **AWS**
 
@@ -220,7 +219,7 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 ---
 
-## 🟣 GitHub Analytics
+## 📈 GitHub Analytics
 -------------------
 
 <p align="center">
@@ -228,7 +227,7 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 </p>
 
 
-## 🟣 Contribution Activity
+## 📊 Contribution Activity
 
 <div align="center">
 
@@ -238,7 +237,7 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 ---
 
-## 🟣 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -249,7 +248,7 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 ---
 
-## 🟣 Current Focus
+## 🎯 Current Focus
 
 ```yaml
 current_focus:
