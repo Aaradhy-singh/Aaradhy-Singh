@@ -2,13 +2,12 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 */6 * * *" # every 6 hours for fresher graph
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
 
-# prevent overlapping runs
 concurrency:
   group: snake-animation
   cancel-in-progress: true
@@ -25,23 +24,22 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      # Generate multiple high-visibility variants
-      - name: Generate snake assets
+      - name: Generate snake assets (high contrast + stylish)
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # Light mode: stronger low-cell visibility
-            dist/github-snake.svg?color_snake=#FF2E97&color_dots=#EBEDF0,#C6F6D5,#7EE787,#2EA043,#116329
+            # LIGHT: very visible low cells + hot pink snake with border
+            dist/github-snake.svg?color_snake=#FF007A&color_snake_border=#FFFFFF&color_dots=#F2F2F2,#D9F99D,#86EFAC,#22C55E,#15803D
 
-            # Dark mode: neon contrast so snake never blends in
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00F5FF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            # DARK: strong contrast low cells + neon cyan snake with dark border
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#00E5FF&color_snake_border=#000000&color_dots=#2A2F3A,#8BFFB0,#49D17D,#22A35A,#0E6B3C
 
-            # Stylish alt theme (purple neon)
-            dist/github-snake-neon.svg?color_snake=#B300FF&color_dots=#1F2430,#33415C,#5C7AEA,#8E9BFF,#C0C6FF
+            # STYLISH ALT: purple-electric theme (different from usual)
+            dist/github-snake-electric.svg?color_snake=#C800FF&color_snake_border=#FFFFFF&color_dots=#EEF2FF,#C4B5FD,#A78BFA,#7C3AED,#4C1D95
 
-            # Optional animated gif for extra visual impact
-            dist/github-snake.gif?color_snake=#FF2E97&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353
+            # Optional GIF version
+            dist/github-snake.gif?color_snake=#FF007A&color_snake_border=#FFFFFF&color_dots=#1F2937,#A7F3D0,#6EE7B7,#34D399,#059669
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
