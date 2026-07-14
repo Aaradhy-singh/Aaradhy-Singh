@@ -242,7 +242,7 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 <div align="center">
 
-<img src="https://github.com/Aaradhy-singh/Aaradhy-Singh/blob/main/.github/workflows/snake.yml"/>
+<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-Singh/output/github-snake-dark.svg"/>
 
 </div>
 
