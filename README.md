@@ -166,7 +166,18 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 ## 💼 Experience
 
-> No formal industry work experience yet. First-year student, actively evaluating legitimate AI/ML and full-stack internship opportunities through verified institutional channels only.
+AI for Sustainability Intern
+1M1B (1 Million for 1 Billion) | Remote | Jul 2026 – September
+
+Responsibilities & Learning:
+
+-> Learned and applied Prompt Engineering, Agentic AI, RAG, IBM Granite Models, and Quantum Computing fundamentals.
+
+-> Explored AI tools and IBM Labs through hands-on workshops.
+
+-> Applied Design Thinking to sustainability-focused AI projects.
+
+-> Collaborated on project-based assignments and strengthened AI development skills.
 
 ---
 
