@@ -167,17 +167,15 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 ## 💼 Experience
 
 AI for Sustainability Intern
-1M1B (1 Million for 1 Billion) | Remote | Jul 2026 – September
+1M1B (1 Million for 1 Billion) | Remote | Jul 2026 – Sep 2026
 
-Responsibilities & Learning:
+* Applied prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts in sustainability-focused projects.
 
--> Learned and applied Prompt Engineering, Agentic AI, RAG, IBM Granite Models, and Quantum Computing fundamentals.
+* Explored IBM AI tools and labs through guided hands-on workshops and practical learning sessions.
 
--> Explored AI tools and IBM Labs through hands-on workshops.
+* Used design thinking to develop creative, sustainability-oriented AI solutions.
 
--> Applied Design Thinking to sustainability-focused AI projects.
-
--> Collaborated on project-based assignments and strengthened AI development skills.
+* Collaborated on project-based assignments, strengthening problem-solving, teamwork, and AI development skills.
 
 ---
 
