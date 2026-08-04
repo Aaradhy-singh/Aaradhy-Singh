@@ -187,6 +187,7 @@ AI for Sustainability Intern
 |---|---|
 | Independent Shipping | 4 deployed, functioning full-stack/AI projects built and shipped solo |
 | Certification Portfolio | Verified certifications across Oracle, Anthropic, AWS, Google, Microsoft, IBM, Hugging Face, JPMorgan Chase |
+| Letter of Recommendation | Received a Letter of Recommendation from Corizo Edutech recognizing strong performance in AI/ML training, Python, data analysis, and project execution.
 
 </div>
 
