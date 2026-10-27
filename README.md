@@ -8,7 +8,9 @@
 
 <br/><br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge&logo=googlescholar&logoColor=white)
+| 🎓 Education | 🚀 Shipped | 🎯 Open To |
+|:---:|:---:|:---:|
+| **B.Tech CSE** · Class of 2030 | **5 projects**, built solo | **AI/ML internships** · Full-stack roles |
 
 <br/>
 
@@ -176,29 +178,43 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 ## 💼 Experience
 
-### Green Skills & Applied AI for Climate Action Intern
-**1M1B (1 Million for 1 Billion)** · in partnership with Govt. of Uttar Pradesh, Microsoft, and MeitY Startup Hub
-📅 Oct 2026 – Nov 2026 *(ongoing)*
+<table>
+<tr>
+<td width="84" align="center"><img src="1m1b-logo.png" width="60" alt="1M1B"/></td>
+<td>
+<b>1M1B (1 Million for 1 Billion)</b><br/>
+Internship · 4 mos<br/>
+<sub>Remote</sub>
+</td>
+</tr>
+</table>
 
-A 70+ hour program applying AI to climate and sustainability problems across four phases: Foundations, Analysis, Application, and Impact.
-
-- Live sessions and weekly assessments on sustainability fundamentals and applied AI
-- Climate action case study work: root-cause mapping, SDG alignment, indicators, and stakeholder analysis
-- AI-enabled solution design: defining the problem context, AI use case, inputs and outputs, and workflow
-- Building a final AI and sustainability project as the program capstone
-
-<br/>
-
-### AI for Sustainability Intern
-**1M1B (1 Million for 1 Billion)** · Remote
-📅 Jul 2026 – Sep 2026
-
-Virtual internship focused on applying AI to sustainability-focused problems.
-
-- Applied prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts
-- Explored IBM AI tools and labs through guided hands-on workshops
-- Used design thinking to develop sustainability-oriented AI solutions
-- Designed and deployed **JalRakshak**, a water-stress awareness platform for Varanasi, as the final project
+> ● **Green Skills & Applied AI Intern** &nbsp; <kbd>Present</kbd>
+> <br/><sub>Oct 2026 - Present · 1 mo · in partnership with Govt. of Uttar Pradesh, Microsoft, and MeitY Startup Hub</sub>
+>
+> A 70+ hour program applying AI to climate and sustainability problems across four phases: Foundations, Analysis, Application, and Impact.
+>
+> - Live sessions and weekly assessments on sustainability fundamentals and applied AI
+> - Climate action case study work: root-cause mapping, SDG alignment, indicators, and stakeholder analysis
+> - AI-enabled solution design: problem context, AI use case, inputs and outputs, and workflow
+> - Building a final AI and sustainability project as the program capstone
+>
+> 📎 **Certificate of Bootcamp Completion**
+>
+> <br/>
+>
+> ● **AI for Sustainability Intern**
+> <br/><sub>Jul 2026 - Sep 2026 · 3 mos</sub>
+>
+> During the AI for Sustainability internship, I worked on sustainability-focused AI projects, exploring real-world problem statements and applying prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts.
+>
+> - Explored IBM AI tools and labs through guided hands-on workshops
+> - Used design thinking to develop sustainability-oriented AI solutions
+> - Designed and deployed **JalRakshak**, a water-stress awareness platform for Varanasi, as the final project
+>
+> 📎 **IBM Certificate** &nbsp;·&nbsp; 🔗 [JalRakshak live site](https://jalrakshak-bice.vercel.app/)
+>
+> 💎 **Artificial Intelligence (AI) · Retrieval-Augmented Generation (RAG) · +5 skills**
 
 ---
 
@@ -216,27 +232,23 @@ Virtual internship focused on applying AI to sustainability-focused problems.
 
 ---
 
-## 📜 Certifications
-
-<div align="center">
+## 📜 Certifications & Skills
 
 <img src="https://img.shields.io/badge/AWS_Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="38"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Oracle_Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="38"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Google_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" height="38"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Microsoft_Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="38"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/IBM_Certification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="38"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Hugging_Face_Certification-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="38"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/JPMorgan_Chase_Certification-117ACA?style=for-the-badge&logo=jpmorganchase&logoColor=white" height="38"/>
-<br/><br/>
-<img src="https://img.shields.io/badge/Anthropic_Certification-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="38"/>
 
-</div>
+<img src="https://img.shields.io/badge/Oracle_Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="38"/>
+
+<img src="https://img.shields.io/badge/Google_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" height="38"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="38"/>
+
+<img src="https://img.shields.io/badge/IBM_Certification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="38"/>
+
+<img src="https://img.shields.io/badge/Hugging_Face_Certification-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="38"/>
+
+<img src="https://img.shields.io/badge/JPMorgan_Chase_Certification-117ACA?style=for-the-badge&logo=jpmorganchase&logoColor=white" height="38"/>
+
+<img src="https://img.shields.io/badge/Anthropic_Certification-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="38"/>
 
 ---
 
@@ -252,7 +264,7 @@ Virtual internship focused on applying AI to sustainability-focused problems.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aaradhy-singh&theme=react-dark&bg_color=0D0221&color=A78BFA&line=8B5CF6&point=C4B5FD&hide_border=true" alt="Contribution activity graph"/>
+<img src="activity-graph.svg" alt="Contribution activity graph" width="100%"/>
 
 </div>
 
