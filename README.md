@@ -80,97 +80,13 @@ Every project on this profile is solo work, so I own the full stack: design, sta
 
 ## 📌 Featured Projects
 
-<details open>
-<summary><b>💧 JalRakshak: Water-Stress Awareness Platform for Varanasi</b></summary>
-<br/>
-
-AI-grounded water-stress advisory platform built for the 1M1B internship, aligned with SDG 6 (Clean Water) and SDG 13 (Climate Action). Any figure on the site that is not live or sourced is labeled illustrative.
-
-| Category | Detail |
-|---|---|
-| **Stack** | React, TypeScript, Tailwind CSS, Open-Meteo API, Vercel |
-| **Data** | Live weather and air-quality data from Open-Meteo, with no API key required |
-| **Scope** | Locality explorer, live environment telemetry, methodology and Responsible AI pages |
-| **Impact** | Applies AI to a real local problem with an explicit honesty standard for data provenance |
-| **Links** | [Live Site](https://jalrakshak-bice.vercel.app/) · [Repository](https://github.com/Aaradhy-singh/jalrakshak) |
-
-</details>
-
-<details open>
-<summary><b>🚀 SpaceShield: No-Backend Space & Defence News Aggregator</b></summary>
-<br/>
-
-India-first real-time aggregator pulling from NASA APOD, Spaceflight News, and GNews, with Groq-powered (Llama 3.1 8B Instant) summarization, fully client-side, zero backend infrastructure.
-
-| Category | Detail |
-|---|---|
-| **Stack** | React, Vite, Tailwind CSS v3, Groq API, NASA APOD API, Spaceflight News API, GNews API |
-| **Scale** | Multi-source real-time aggregation, no-backend architecture |
-| **Performance** | Client-side fetch and caching, static Vercel edge deployment |
-| **Security** | No user accounts and no stored user data |
-| **Impact** | India-first framing for space and defence news, an underserved niche |
-| **Repository** | [`github.com/Aaradhy-singh/spaceshield`](https://github.com/Aaradhy-singh/spaceshield) |
-
-Architected as a fully static, serverless application to prove that meaningful multi-API aggregation doesn't require backend infrastructure, reducing hosting cost and operational overhead.
-
-</details>
-
-<details open>
-<summary><b>📄 ResumeAI Pro: AI-Powered Resume Diagnostic Platform</b></summary>
-<br/>
-
-Browser-based resume diagnostic tool analyzing skill gaps, ATS compatibility, impact scoring, and role matching across 300+ roles. No account required, runs entirely client-side.
-
-| Category | Detail |
-|---|---|
-| **Stack** | React, TypeScript, Vite, Tailwind CSS, shadcn/ui, jsPDF, PostHog, Formspree, Octokit |
-| **Scale** | 8 analysis engines, skill gap matching against 300+ roles |
-| **Performance** | Fully client-side analysis pipeline, PDF export via jsPDF |
-| **Security** | No account required, no server-side data storage |
-| **Impact** | End-to-end resume-to-hire pipeline: scoring, GitHub analysis, LinkedIn share, feedback loop via PostHog (6 custom events) |
-| **Links** | [Live Site](https://resume-ai-pro-psi.vercel.app/) · [Repository](https://github.com/Aaradhy-singh/resume-ai-pro) |
-
-Built with a strict monochrome design system (black/white/navy, DM Serif Display + DM Mono, zero border-radius) to force disciplined UI decisions rather than defaulting to templated component libraries.
-
-</details>
-
-<details open>
-<summary><b>🎓 Local AI Academic Tutor</b></summary>
-<br/>
-
-Offline-capable AI chatbot running a local LLM through Ollama, served via a Gradio interface, no external API dependency, no data leaving the device.
-
-| Category | Detail |
-|---|---|
-| **Stack** | Python, Gradio, Ollama |
-| **Scale** | Single-user local inference |
-| **Performance** | Fully offline, latency bound by local hardware |
-| **Security** | No external API calls, no data transmission |
-| **Impact** | Privacy-preserving academic support tool with zero recurring API cost |
-| **Repository** | [`github.com/Aaradhy-singh/local-llm-academic-tutor`](https://github.com/Aaradhy-singh/local-llm-academic-tutor) |
-
-Chosen specifically to explore local inference tradeoffs versus cloud LLM APIs: cost, latency, and privacy in a single constrained project.
-
-</details>
-
-<details open>
-<summary><b>✨ Gesture Particle Universe: Real-Time 3D Gesture-Controlled Particle System</b></summary>
-<br/>
-
-A single-file, 9,000-particle interactive 3D system controlled entirely via hand gestures, combining computer vision with custom shader rendering.
-
-| Category | Detail |
-|---|---|
-| **Stack** | Three.js, MediaPipe, custom GLSL shaders, single-file HTML |
-| **Scale** | 9,000 real-time rendered particles |
-| **Performance** | Custom GLSL shaders for GPU-accelerated particle rendering |
-| **Security** | Client-only, no data collection |
-| **Impact** | Demonstrates real-time CV and WebGL integration in a zero-dependency deployable file |
-| **Repository** | [`github.com/Aaradhy-singh/gesture-particle-universe`](https://github.com/Aaradhy-singh/gesture-particle-universe) |
-
-Deployed as a single HTML file, a deliberate constraint to prove the entire CV and shader pipeline could ship without a build step.
-
-</details>
+| Project | Overview | Stack | Highlights |
+|---|---|---|---|
+| **💧 JalRakshak**<br/>[Live](https://jalrakshak-bice.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/jalrakshak) | AI-grounded water-stress advisory platform for Varanasi, aligned with SDG 6 and SDG 13 | React · TypeScript · Tailwind CSS · Open-Meteo API · Vercel | Live weather and air-quality data, locality explorer, methodology and Responsible AI pages, non-live figures labeled illustrative |
+| **🚀 SpaceShield**<br/>[Repo](https://github.com/Aaradhy-singh/spaceshield) | India-first space and defence news aggregator with Groq (Llama 3.1 8B Instant) summarization | React · Vite · Tailwind CSS · Groq · NASA APOD · Spaceflight News · GNews | Multi-source real-time aggregation, fully client-side, no user accounts or stored data |
+| **📄 ResumeAI Pro**<br/>[Live](https://resume-ai-pro-psi.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/resume-ai-pro) | Browser-based resume diagnostic covering skill gaps, ATS compatibility, impact scoring, and role matching | React · TypeScript · Vite · Tailwind CSS · shadcn/ui · jsPDF · PostHog | 8 analysis engines, 300+ roles, PDF export, no account required |
+| **🎓 Local AI Academic Tutor**<br/>[Repo](https://github.com/Aaradhy-singh/local-llm-academic-tutor) | Offline academic chatbot running a local LLM through Ollama with a Gradio interface | Python · Gradio · Ollama | Fully offline, no external API calls, zero recurring cost |
+| **✨ Gesture Particle Universe**<br/>[Repo](https://github.com/Aaradhy-singh/gesture-particle-universe) | Real-time 3D particle system controlled entirely by hand gestures | Three.js · MediaPipe · GLSL | 9,000 GPU-rendered particles, shipped as a single HTML file with no build step |
 
 ---
 
@@ -228,51 +144,26 @@ During the AI for Sustainability internship, I worked on sustainability-focused 
 
 ## 🎖️ Achievements
 
-<div align="center">
-
-| Recognition | Details |
+| Achievement | Details |
 |---|---|
-| Independent Shipping | 5 projects built and shipped solo across full-stack, GenAI, and computer vision |
-| Certification Portfolio | Certifications across Oracle, Anthropic, AWS, Google, Microsoft, IBM, Hugging Face, JPMorgan Chase |
-| Letter of Recommendation | From Corizo Edutech, recognizing performance in AI/ML training, Python, data analysis, and project execution |
-
-</div>
+| 🚀 **Independent Shipping** | 5 projects built and shipped solo across full-stack, GenAI, and computer vision |
+| 💼 **Internships** | 1M1B AI for Sustainability (Jul 2026 - Sep 2026) and Green Skills & Applied AI for Climate Action (Oct 2026 - Present) |
+| 📜 **Certifications** | AWS, Oracle, Google, Microsoft, IBM, Hugging Face, Anthropic, JPMorgan Chase |
+| ✉️ **Letter of Recommendation** | From Corizo Edutech, recognizing performance in AI/ML training, Python, data analysis, and project execution |
 
 ---
 
 ## 📜 Certifications & Skills
 
-### Certifications
-
-| Certificate | Skills gained |
+| Certification | Skills |
 |---|---|
-| **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** | Artificial Intelligence · Generative AI · Machine Learning (Basics) · OCI · Cloud Computing |
-| **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) · Cloud Computing |
-| **Fundamentals of Machine Learning and Artificial Intelligence** | Artificial Intelligence · Machine Learning (Basics) · Amazon Web Services (AWS) |
-| **Introduction to Artificial Intelligence** | Artificial Intelligence · Generative AI · Machine Learning (Basics) |
-| **Introduction to Generative AI and Agents** | Artificial Intelligence · Generative AI |
-| **Prompt Design in Vertex AI** | Artificial Intelligence · Generative AI · Prompt Engineering · Vertex AI |
-| **Foundations of Prompt Engineering** | Generative AI · Prompt Engineering · Amazon Web Services (AWS) · Cloud Computing |
-| **Prompt Engineering: Shaping Better AI Responses** | Generative AI · Prompt Engineering |
-| **Introduction to Prompt Engineering with GitHub Copilot** | Prompt Engineering · GitHub Copilot |
-| **AI Fluency: Framework & Foundations** | Generative AI · Prompt Engineering · Large Language Models (LLM) |
-| **The LLM Course** | Large Language Models (LLM) |
-| **EAB GenAI for Proposal Generation Job Simulation** | Generative AI · Prompt Engineering |
-| **Corizo AI Training and Internship Certificates** | Artificial Intelligence · Generative AI · LLM · NLP · RAG · Machine Learning (Basics) · Deep Learning · Python |
-| **Corizo Machine Learning Training and Internship Certificates** | Machine Learning (Basics) · NumPy · Pandas · Python |
-
-### Built Through Projects and Internship
-
-| Project | Skills applied |
-|---|---|
-| **1M1B AI for Sustainability Internship** | Artificial Intelligence · Prompt Engineering · Agentic AI Development · RAG · AI for Sustainability and SDG-aligned solution design · IBM SkillsBuild and IBM Granite models · Design Thinking |
-| **JalRakshak** | SDG-aligned solution design · React.js · TypeScript · Tailwind CSS · Three.js |
-| **ResumeAI Pro** | JavaScript · TypeScript · React.js · Vite · REST APIs · GitHub API · jsPDF · PostHog · Resume Analysis |
-| **SpaceShield** | Large Language Models (LLM) · REST APIs · GitHub · Vercel V0 |
-| **Local AI Academic Tutor** | Prompt Engineering · Local LLM Deployment · Python · Gradio · Ollama |
-| **Gesture Particle Universe** | Generative AI · AI-Assisted Development · Web Deployment · Version Control · Product Development |
-
-**Also:** OpenGL Shading Language (GLSL) · Software Engineering · Oracle Cloud
+| <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="38"/> | Cloud Computing · AWS · Machine Learning Basics · Prompt Engineering |
+| <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="38"/> | AI Foundations · OCI · Cloud Computing · Generative AI |
+| <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white" height="38"/> | Vertex AI · Prompt Engineering · Generative AI |
+| <img src="https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="38"/> | GitHub Copilot · Prompt Engineering |
+| <img src="https://img.shields.io/badge/IBM-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="38"/> | IBM SkillsBuild · Granite Models · RAG · Agentic AI |
+| <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="38"/> | Large Language Models (LLM) |
+| <img src="https://img.shields.io/badge/Anthropic-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="38"/> | Generative AI · Prompt Engineering · LLM |
 
 ---
 
