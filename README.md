@@ -8,9 +8,7 @@
 
 <br/><br/>
 
-| 🎓 Education | 🚀 Shipped | 🎯 Open To |
-|:---:|:---:|:---:|
-| **B.Tech CSE** · Class of 2030 | **5 projects**, built solo | **AI/ML internships** · Full-stack roles |
+<h3 align="center">B.Tech Computer Science and Engineering · Class of 2030</h3>
 
 <br/>
 
@@ -180,41 +178,51 @@ Deployed as a single HTML file, a deliberate constraint to prove the entire CV a
 
 <table>
 <tr>
-<td width="84" align="center"><img src="1m1b-logo.png" width="60" alt="1M1B"/></td>
+<td width="80" align="center"><img src="1m1b-logo.png" width="56" alt="1M1B"/></td>
 <td>
 <b>1M1B (1 Million for 1 Billion)</b><br/>
 Internship · 4 mos<br/>
 <sub>Remote</sub>
 </td>
 </tr>
-</table>
+<tr>
+<td align="center">●</td>
+<td>
 
-> ● **Green Skills & Applied AI Intern** &nbsp; <kbd>Present</kbd>
-> <br/><sub>Oct 2026 - Present · 1 mo · in partnership with Govt. of Uttar Pradesh, Microsoft, and MeitY Startup Hub</sub>
->
-> A 70+ hour program applying AI to climate and sustainability problems across four phases: Foundations, Analysis, Application, and Impact.
->
-> - Live sessions and weekly assessments on sustainability fundamentals and applied AI
-> - Climate action case study work: root-cause mapping, SDG alignment, indicators, and stakeholder analysis
-> - AI-enabled solution design: problem context, AI use case, inputs and outputs, and workflow
-> - Building a final AI and sustainability project as the program capstone
->
-> 📎 **Certificate of Bootcamp Completion**
->
-> <br/>
->
-> ● **AI for Sustainability Intern**
-> <br/><sub>Jul 2026 - Sep 2026 · 3 mos</sub>
->
-> During the AI for Sustainability internship, I worked on sustainability-focused AI projects, exploring real-world problem statements and applying prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts.
->
-> - Explored IBM AI tools and labs through guided hands-on workshops
-> - Used design thinking to develop sustainability-oriented AI solutions
-> - Designed and deployed **JalRakshak**, a water-stress awareness platform for Varanasi, as the final project
->
-> 📎 **IBM Certificate** &nbsp;·&nbsp; 🔗 [JalRakshak live site](https://jalrakshak-bice.vercel.app/)
->
-> 💎 **Artificial Intelligence (AI) · Retrieval-Augmented Generation (RAG) · +5 skills**
+**Green Skills & Applied AI Intern** &nbsp; <kbd>Present</kbd><br/>
+<sub>Oct 2026 - Present · 1 mo · in partnership with Govt. of Uttar Pradesh, Microsoft, and MeitY Startup Hub</sub>
+
+A 70+ hour program applying AI to climate and sustainability problems across four phases: Foundations, Analysis, Application, and Impact.
+
+- Live sessions and weekly assessments on sustainability fundamentals and applied AI
+- Climate action case study work: root-cause mapping, SDG alignment, indicators, and stakeholder analysis
+- AI-enabled solution design: problem context, AI use case, inputs and outputs, and workflow
+- Building a final AI and sustainability project as the program capstone
+
+📎 **Certificate of Bootcamp Completion**
+
+</td>
+</tr>
+<tr>
+<td align="center">●</td>
+<td>
+
+**AI for Sustainability Intern**<br/>
+<sub>Jul 2026 - Sep 2026 · 3 mos</sub>
+
+During the AI for Sustainability internship, I worked on sustainability-focused AI projects, exploring real-world problem statements and applying prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts.
+
+- Explored IBM AI tools and labs through guided hands-on workshops
+- Used design thinking to develop sustainability-oriented AI solutions
+- Designed and deployed **JalRakshak**, a water-stress awareness platform for Varanasi, as the final project
+
+📎 **IBM Certificate** &nbsp;·&nbsp; 🔗 [JalRakshak live site](https://jalrakshak-bice.vercel.app/)
+
+💎 **Artificial Intelligence (AI) · Retrieval-Augmented Generation (RAG) · +5 skills**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -234,21 +242,37 @@ Internship · 4 mos<br/>
 
 ## 📜 Certifications & Skills
 
-<img src="https://img.shields.io/badge/AWS_Certification-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" height="38"/>
+### Certifications
 
-<img src="https://img.shields.io/badge/Oracle_Certification-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="38"/>
+| Certificate | Skills gained |
+|---|---|
+| **Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate** | Artificial Intelligence · Generative AI · Machine Learning (Basics) · OCI · Cloud Computing |
+| **AWS Cloud Practitioner Essentials** | Amazon Web Services (AWS) · Cloud Computing |
+| **Fundamentals of Machine Learning and Artificial Intelligence** | Artificial Intelligence · Machine Learning (Basics) · Amazon Web Services (AWS) |
+| **Introduction to Artificial Intelligence** | Artificial Intelligence · Generative AI · Machine Learning (Basics) |
+| **Introduction to Generative AI and Agents** | Artificial Intelligence · Generative AI |
+| **Prompt Design in Vertex AI** | Artificial Intelligence · Generative AI · Prompt Engineering · Vertex AI |
+| **Foundations of Prompt Engineering** | Generative AI · Prompt Engineering · Amazon Web Services (AWS) · Cloud Computing |
+| **Prompt Engineering: Shaping Better AI Responses** | Generative AI · Prompt Engineering |
+| **Introduction to Prompt Engineering with GitHub Copilot** | Prompt Engineering · GitHub Copilot |
+| **AI Fluency: Framework & Foundations** | Generative AI · Prompt Engineering · Large Language Models (LLM) |
+| **The LLM Course** | Large Language Models (LLM) |
+| **EAB GenAI for Proposal Generation Job Simulation** | Generative AI · Prompt Engineering |
+| **Corizo AI Training and Internship Certificates** | Artificial Intelligence · Generative AI · LLM · NLP · RAG · Machine Learning (Basics) · Deep Learning · Python |
+| **Corizo Machine Learning Training and Internship Certificates** | Machine Learning (Basics) · NumPy · Pandas · Python |
 
-<img src="https://img.shields.io/badge/Google_Certification-4285F4?style=for-the-badge&logo=google&logoColor=white" height="38"/>
+### Built Through Projects and Internship
 
-<img src="https://img.shields.io/badge/Microsoft_Certification-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" height="38"/>
+| Project | Skills applied |
+|---|---|
+| **1M1B AI for Sustainability Internship** | Artificial Intelligence · Prompt Engineering · Agentic AI Development · RAG · AI for Sustainability and SDG-aligned solution design · IBM SkillsBuild and IBM Granite models · Design Thinking |
+| **JalRakshak** | SDG-aligned solution design · React.js · TypeScript · Tailwind CSS · Three.js |
+| **ResumeAI Pro** | JavaScript · TypeScript · React.js · Vite · REST APIs · GitHub API · jsPDF · PostHog · Resume Analysis |
+| **SpaceShield** | Large Language Models (LLM) · REST APIs · GitHub · Vercel V0 |
+| **Local AI Academic Tutor** | Prompt Engineering · Local LLM Deployment · Python · Gradio · Ollama |
+| **Gesture Particle Universe** | Generative AI · AI-Assisted Development · Web Deployment · Version Control · Product Development |
 
-<img src="https://img.shields.io/badge/IBM_Certification-052FAD?style=for-the-badge&logo=ibm&logoColor=white" height="38"/>
-
-<img src="https://img.shields.io/badge/Hugging_Face_Certification-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="38"/>
-
-<img src="https://img.shields.io/badge/JPMorgan_Chase_Certification-117ACA?style=for-the-badge&logo=jpmorganchase&logoColor=white" height="38"/>
-
-<img src="https://img.shields.io/badge/Anthropic_Certification-D97757?style=for-the-badge&logo=anthropic&logoColor=white" height="38"/>
+**Also:** OpenGL Shading Language (GLSL) · Software Engineering · Oracle Cloud
 
 ---
 
