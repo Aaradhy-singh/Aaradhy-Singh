@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aaradhy%20Singh&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=28&desc=CSE%20Student%20%7C%20AI-Led%20Developer%20%7C%20Builder%20%7C%20Learner&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Aaradhy%20Singh&fontSize=60&fontColor=C4B5FD&animation=fadeIn&fontAlignY=28&desc=CSE%20Core%20Student%20%7C%20Software%20Developer%20%7C%20Builder%20%7C%20Learner&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Applied+Generative+AI+%26+Prompt+Systems;Full-Stack+AI+Web+Applications;B.Tech+CSE+%E2%80%A2+Class+of+2030;Building+in+Public%2C+One+Deploy+at+a+Time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Software+Engineering+%26+Product+Building;Full-Stack+Web+Applications;B.Tech+CSE+%E2%80%A2+Class+of+2030;Building+in+Public%2C+One+Deploy+at+a+Time" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<h3 align="center">B.Tech Computer Science and Engineering · Class of 2030</h3>
+<h3 align="center">B.Tech Computer Science and Engineering (CSE Core) · Class of 2030</h3>
 
 <br/>
 
@@ -36,11 +36,15 @@
 
 <br/>
 
-I'm a first-year Computer Science student building full-stack and AI-integrated web applications. My current work focuses on practical API integrations, user-facing interfaces, and deploying projects with modern web tools.
+I'm Aaradhy, a first-year B.Tech Computer Science and Engineering (CSE Core) student at Lovely Professional University, graduating in 2030. I enjoy building software that solves practical problems and makes complex information easier to use.
 
-**🎓 Education:** B.Tech Computer Science and Engineering, Lovely Professional University · Class of 2030
+Through my projects, I’ve worked on React and TypeScript interfaces, API integrations, browser-based tools, local services, and deployment. Recent examples include JalRakshak, a water-awareness platform for Varanasi; SpaceShield, a space and defence news dashboard; and ResumeAI Pro, a browser-based resume analysis tool. These projects reflect my broader software engineering interests alongside my CSE Core studies.
 
-**🎯 Open To:** AI/ML internships · Full-stack development roles · Open-source collaboration · Applied GenAI research exposure
+I’m strengthening my programming and computer science fundamentals while building useful, polished projects. I value clear interfaces, reliable behavior, and descriptions that match what a project actually does.
+
+**🎓 Education:** B.Tech Computer Science and Engineering (CSE Core), Lovely Professional University · Class of 2030
+
+**🎯 Open To:** Software engineering internships · Full-stack development roles · Open-source collaboration
 
 ---
 
@@ -64,12 +68,12 @@ I'm a first-year Computer Science student building full-stack and AI-integrated 
 
 ---
 
-## 🟣 Applied AI / ML Work
+## 🟣 Engineering in Practice
 
-- Groq-powered article summaries in SpaceShield
-- Resume feedback using rule-based analysis in ResumeAI Pro
-- A local academic tutor that connects to Ollama
-- JalRakshak presents live weather and air-quality observations alongside clearly labeled reference information
+- API-backed article summaries in SpaceShield
+- Browser-based resume feedback in ResumeAI Pro
+- Local model integration in an academic tutor using Ollama
+- Live weather and air-quality observations in JalRakshak, alongside clearly labeled reference information
 
 ---
 
@@ -144,7 +148,7 @@ The AI for Sustainability internship covered sustainability-focused problem stat
 | 🚀 **Projects** | Selected work includes web applications, local AI tools, and interactive graphics |
 | 💼 **Internships** | 1M1B AI for Sustainability (Jul 2026 - Sep 2026) and Green Skills & Applied AI for Climate Action (Oct 2026 - Present) |
 | 📜 **Certifications** | AWS, Oracle, Google, Microsoft, IBM, Hugging Face, Anthropic, JPMorgan Chase |
-| ✉️ **Letter of Recommendation** | From Corizo Edutech, recognizing performance in AI/ML training, Python, data analysis, and project execution |
+| ✉️ **Letter of Recommendation** | From Corizo Edutech, recognizing performance in technical training, Python, data analysis, and project execution |
 
 ---
 
@@ -170,6 +174,24 @@ The AI for Sustainability internship covered sustainability-focused problem stat
 
 ---
 
+## 📊 Public Repository Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-singh&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=A78BFA&icon_color=8B5CF6" alt="GitHub public repository statistics" />
+</p>
+
+---
+
+## 💻 Languages in Public Repositories
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhy-singh&layout=compact&langs_count=8&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=A78BFA" alt="Programming languages represented in public repositories" />
+</p>
+
+<sub>Repository cards summarize public code activity; they are not skill ratings.</sub>
+
+---
+
 ## 📊 Contribution Activity
 
 <div align="center">
@@ -184,7 +206,7 @@ The AI for Sustainability internship covered sustainability-focused problem stat
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-Singh/output/github-snake-dark.svg" alt="Contribution snake"/>
+<img src="https://raw.githubusercontent.com/Aaradhy-singh/Aaradhy-Singh/output/github-snake-dark.svg" alt="GitHub contribution snake with clearly visible empty cells"/>
 
 </div>
 
@@ -196,8 +218,8 @@ The AI for Sustainability internship covered sustainability-focused problem stat
 
 | 📚 Learning | 🔨 Building | 🔭 Exploring |
 |:---:|:---:|:---:|
-| Prompt engineering and LLM orchestration | Deployable AI products, solo | Agentic workflows |
-| System design fundamentals | AI for sustainability | Local LLM inference |
+| Data structures and algorithms | Full-stack web applications | Human-computer interaction |
+| Software design fundamentals | API-backed project features | Cloud deployment |
 
 </div>
 
@@ -218,7 +240,7 @@ The AI for Sustainability internship covered sustainability-focused problem stat
 
 *"Ship the deployed artifact, not the tutorial."*
 
-<sub>Last updated: October 2026</sub>
+<sub>Last updated: November 2026</sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
