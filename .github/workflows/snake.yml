@@ -43,17 +43,19 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Make dark snake cell borders visible
+      - name: Make dark snake cells black with visible borders
         run: |
-          python - <<'PY'
+          python3 - <<'PY'
           from pathlib import Path
           import re
 
           path = Path("dist/github-snake-dark.svg")
           content = path.read_text(encoding="utf-8")
-          content, replacements = re.subn(r"--cb:#[0-9A-Fa-f]{6,8}", "--cb:#3D4656", content, count=1)
-          if replacements != 1:
-              raise SystemExit("Could not find the dark snake cell border color")
+          content, empty_replacements = re.subn(r"--ce:#[0-9A-Fa-f]{6,8}", "--ce:#0D1117", content, count=1)
+          content, zero_replacements = re.subn(r"--c0:#[0-9A-Fa-f]{6,8}", "--c0:#0D1117", content, count=1)
+          content, border_replacements = re.subn(r"--cb:#[0-9A-Fa-f]{6,8}", "--cb:#3D4656", content, count=1)
+          if (empty_replacements, zero_replacements, border_replacements) != (1, 1, 1):
+              raise SystemExit("Could not set the dark snake cell colors")
           path.write_text(content, encoding="utf-8")
           PY
 
