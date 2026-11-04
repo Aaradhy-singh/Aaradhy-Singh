@@ -177,7 +177,7 @@ The AI for Sustainability internship covered sustainability-focused problem stat
 ## 📊 Public Repository Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aaradhy-singh&show_icons=true&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=A78BFA&icon_color=8B5CF6" alt="GitHub public repository statistics" />
+  <img src="profile-stats.svg" alt="GitHub public repository statistics" />
 </p>
 
 ---
@@ -185,10 +185,9 @@ The AI for Sustainability internship covered sustainability-focused problem stat
 ## 💻 Languages in Public Repositories
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aaradhy-singh&layout=compact&langs_count=8&hide_border=true&bg_color=0D0221&title_color=C4B5FD&text_color=A78BFA" alt="Programming languages represented in public repositories" />
+  <img src="language-breakdown.svg" alt="Programming languages represented in public repositories" />
 </p>
 
-<sub>Repository cards summarize public code activity; they are not skill ratings.</sub>
 
 ---
 
