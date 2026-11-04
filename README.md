@@ -50,32 +50,36 @@ I’m strengthening my programming and computer science fundamentals while build
 
 ## 💻 Tech Stack
 
-**Languages**  
-<img src="assets/tech-logos/python.svg" width="38" alt="Python logo"/> <sub>Python</sub> &nbsp; <img src="assets/tech-logos/html.svg" width="38" alt="HTML logo"/> <sub>HTML</sub> &nbsp; <img src="assets/tech-logos/css.svg" width="38" alt="CSS logo"/> <sub>CSS</sub> &nbsp; <img src="assets/tech-logos/javascript.svg" width="38" alt="JavaScript logo"/> <sub>JavaScript</sub>
+**Languages**
 
-**Frontend**  
-<img src="assets/tech-logos/html.svg" width="38" alt="HTML logo"/> <sub>HTML</sub> &nbsp; <img src="assets/tech-logos/css.svg" width="38" alt="CSS logo"/> <sub>CSS</sub> &nbsp; <img src="assets/tech-logos/vite.svg" width="38" alt="Vite logo"/> <sub>Vite</sub>
+<table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0"><tr><td align="center" width="140"><img src="assets/tech-logos/python.svg" width="60" alt="Python logo"/><br/><sub>Python</sub></td><td align="center" width="140"><img src="assets/tech-logos/html.svg" width="60" alt="HTML logo"/><br/><sub>HTML</sub></td><td align="center" width="140"><img src="assets/tech-logos/css.svg" width="60" alt="CSS logo"/><br/><sub>CSS</sub></td><td align="center" width="140"><img src="assets/tech-logos/javascript.svg" width="60" alt="JavaScript logo"/><br/><sub>JavaScript</sub></td></tr></table>
 
-**Backend**  
-<img src="assets/tech-logos/python.svg" width="38" alt="Python logo"/> <sub>Python</sub> &nbsp; <img src="assets/tech-logos/fastapi.svg" width="38" alt="FastAPI logo"/> <sub>FastAPI</sub>
+**Frontend**
 
-**Cloud & Version Control**  
-<img src="assets/tech-logos/vercel.svg" width="38" alt="Vercel logo"/> <sub>Vercel</sub> &nbsp; <img src="assets/tech-logos/github.svg" width="38" alt="GitHub logo"/> <sub>GitHub</sub> &nbsp; <img src="assets/tech-logos/git.svg" width="38" alt="Git logo"/> <sub>Git</sub>
+<table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0"><tr><td align="center" width="140"><img src="assets/tech-logos/html.svg" width="60" alt="HTML logo"/><br/><sub>HTML</sub></td><td align="center" width="140"><img src="assets/tech-logos/css.svg" width="60" alt="CSS logo"/><br/><sub>CSS</sub></td><td align="center" width="140"><img src="assets/tech-logos/vite.svg" width="60" alt="Vite logo"/><br/><sub>Vite</sub></td></tr></table>
 
-### 🛠️ Tools & AI Assistants
+**Backend**
 
-<table>
+<table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0"><tr><td align="center" width="140"><img src="assets/tech-logos/python.svg" width="60" alt="Python logo"/><br/><sub>Python</sub></td><td align="center" width="140"><img src="assets/tech-logos/fastapi.svg" width="60" alt="FastAPI logo"/><br/><sub>FastAPI</sub></td></tr></table>
+
+**Cloud & Version Control**
+
+<table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0"><tr><td align="center" width="140"><img src="assets/tech-logos/vercel.svg" width="60" alt="Vercel logo"/><br/><sub>Vercel</sub></td><td align="center" width="140"><img src="assets/tech-logos/github.svg" width="60" alt="GitHub logo"/><br/><sub>GitHub</sub></td><td align="center" width="140"><img src="assets/tech-logos/git.svg" width="60" alt="Git logo"/><br/><sub>Git</sub></td></tr></table>
+
+**Tools & AI Assistants**
+
+<table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0">
 <tr>
-<td align="center" width="120"><img src="assets/tool-logos/vscode.svg" width="48" alt="Visual Studio Code logo"/><br/><sub>Visual Studio Code</sub></td>
-<td align="center" width="120"><img src="assets/tool-logos/antigravity.svg" width="48" alt="Antigravity logo"/><br/><sub>Antigravity</sub></td>
-<td align="center" width="120"><img src="assets/tool-logos/cursor.svg" width="48" alt="Cursor logo"/><br/><sub>Cursor</sub></td>
-<td align="center" width="120"><img src="assets/tool-logos/copilot.svg" width="48" alt="GitHub Copilot logo"/><br/><sub>GitHub Copilot</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/vscode.svg" width="60" alt="Visual Studio Code logo"/><br/><sub>Visual Studio Code</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/antigravity.svg" width="60" alt="Antigravity logo"/><br/><sub>Antigravity</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/cursor.svg" width="60" alt="Cursor logo"/><br/><sub>Cursor</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/copilot.svg" width="60" alt="GitHub Copilot logo"/><br/><sub>GitHub Copilot</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="assets/tool-logos/claude.svg" width="48" alt="Claude logo"/><br/><sub>Claude</sub></td>
-<td align="center"><img src="assets/tool-logos/chatgpt.svg" width="48" alt="ChatGPT logo"/><br/><sub>ChatGPT</sub></td>
-<td align="center"><img src="assets/tool-logos/codex.svg" width="48" alt="Codex logo"/><br/><sub>Codex</sub></td>
-<td align="center"><img src="assets/tool-logos/gemini.svg" width="48" alt="Gemini logo"/><br/><sub>Gemini</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/claude.svg" width="60" alt="Claude logo"/><br/><sub>Claude</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/chatgpt.svg" width="60" alt="ChatGPT logo"/><br/><sub>ChatGPT</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/codex.svg" width="60" alt="Codex logo"/><br/><sub>Codex</sub></td>
+<td align="center" width="140"><img src="assets/tool-logos/gemini.svg" width="60" alt="Gemini logo"/><br/><sub>Gemini</sub></td>
 </tr>
 </table>
 
