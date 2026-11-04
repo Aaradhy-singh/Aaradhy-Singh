@@ -48,23 +48,21 @@ I’m strengthening my programming and computer science fundamentals while build
 
 ---
 
-## 🧰 Languages & Technology
+## 💻 Tech Stack
 
 **Languages**  
-Python · HTML · CSS · JavaScript
+<img src="assets/tech-logos/python.svg" width="38" alt="Python logo"/> <sub>Python</sub> &nbsp; <img src="assets/tech-logos/html.svg" width="38" alt="HTML logo"/> <sub>HTML</sub> &nbsp; <img src="assets/tech-logos/css.svg" width="38" alt="CSS logo"/> <sub>CSS</sub> &nbsp; <img src="assets/tech-logos/javascript.svg" width="38" alt="JavaScript logo"/> <sub>JavaScript</sub>
 
 **Frontend**  
-HTML · CSS · Vite
+<img src="assets/tech-logos/html.svg" width="38" alt="HTML logo"/> <sub>HTML</sub> &nbsp; <img src="assets/tech-logos/css.svg" width="38" alt="CSS logo"/> <sub>CSS</sub> &nbsp; <img src="assets/tech-logos/vite.svg" width="38" alt="Vite logo"/> <sub>Vite</sub>
 
 **Backend**  
-Python · FastAPI
+<img src="assets/tech-logos/python.svg" width="38" alt="Python logo"/> <sub>Python</sub> &nbsp; <img src="assets/tech-logos/fastapi.svg" width="38" alt="FastAPI logo"/> <sub>FastAPI</sub>
 
 **Cloud & Version Control**  
-Vercel · GitHub · Git
+<img src="assets/tech-logos/vercel.svg" width="38" alt="Vercel logo"/> <sub>Vercel</sub> &nbsp; <img src="assets/tech-logos/github.svg" width="38" alt="GitHub logo"/> <sub>GitHub</sub> &nbsp; <img src="assets/tech-logos/git.svg" width="38" alt="Git logo"/> <sub>Git</sub>
 
----
-
-## 🛠️ Tools & AI Assistants
+### 🛠️ Tools & AI Assistants
 
 <table>
 <tr>
@@ -82,6 +80,7 @@ Vercel · GitHub · Git
 </table>
 
 ---
+
 
 ## 🟣 Engineering in Practice
 
