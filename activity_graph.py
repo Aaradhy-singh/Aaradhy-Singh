@@ -75,8 +75,13 @@ def fetch_weekly_totals(user: str, token: str, today: date | None = None) -> lis
     except (UnicodeDecodeError, json.JSONDecodeError) as exc:
         raise GitHubAPIError("GitHub GraphQL returned invalid JSON") from exc
 
-    errors = result.get("errors")
+    if not isinstance(result, dict):
+        raise GitHubAPIError("GitHub GraphQL returned JSON that was not an object")
+
+    errors = result.get("errors", [])
     if errors:
+        if not isinstance(errors, list):
+            raise GitHubAPIError("GitHub GraphQL returned an invalid errors field")
         messages = "; ".join(
             str(error.get("message", "unknown GraphQL error"))
             for error in errors if isinstance(error, dict)
