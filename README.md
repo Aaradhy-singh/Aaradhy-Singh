@@ -36,9 +36,7 @@
 
 <br/>
 
-I'm a first-year Computer Science student who builds AI-integrated web applications independently, end to end: architecture, frontend, API integration, and deployment. My work centres on applied generative AI, wiring LLM APIs into real products rather than treating them as toys, alongside full-stack engineering with React, TypeScript, and modern tooling.
-
-Every project on this profile is solo work, so I own the full stack: design, state management, third-party API orchestration, deployment, and post-launch iteration.
+I'm a first-year Computer Science student building full-stack and AI-integrated web applications. My current work focuses on practical API integrations, user-facing interfaces, and deploying projects with modern web tools.
 
 **🎓 Education:** B.Tech Computer Science and Engineering, Lovely Professional University · Class of 2030
 
@@ -66,15 +64,12 @@ Every project on this profile is solo work, so I own the full stack: design, sta
 
 ---
 
-## 🟣 AI / ML Expertise
+## 🟣 Applied AI / ML Work
 
-| Domain | Proficiency | Details |
-|---|:---:|---|
-| **LLM API Integration** | ⭐⭐⭐⭐☆ | Groq (Llama 3.1) summarization inside a deployed app, response handling |
-| **Prompt Engineering** | ⭐⭐⭐⭐☆ | Structured prompt systems for analysis, tutoring, and content generation |
-| **Clustering & Recommendation** | ⭐⭐⭐☆☆ | K-Means genre segmentation, cosine similarity recommender (Spotify dataset) |
-| **Local LLM Deployment** | ⭐⭐⭐☆☆ | Ollama served via Gradio for offline academic tutoring |
-| **Applied Generative AI Products** | ⭐⭐⭐⭐☆ | End-to-end GenAI features shipped in deployed apps, including JalRakshak |
+- Groq-powered article summaries in SpaceShield
+- Resume feedback using rule-based analysis in ResumeAI Pro
+- A local academic tutor that connects to Ollama
+- JalRakshak presents live weather and air-quality observations alongside clearly labeled reference information
 
 ---
 
@@ -82,11 +77,11 @@ Every project on this profile is solo work, so I own the full stack: design, sta
 
 | Project | Overview | Stack | Highlights |
 |---|---|---|---|
-| **💧 JalRakshak**<br/>[Live](https://jalrakshak-bice.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/jalrakshak) | AI-grounded water-stress advisory platform for Varanasi, aligned with SDG 6 and SDG 13 | React · TypeScript · Tailwind CSS · Open-Meteo API · Vercel | Live weather and air-quality data, locality explorer, methodology and Responsible AI pages, non-live figures labeled illustrative |
-| **🚀 SpaceShield**<br/>[Repo](https://github.com/Aaradhy-singh/spaceshield) | India-first space and defence news aggregator with Groq (Llama 3.1 8B Instant) summarization | React · Vite · Tailwind CSS · Groq · NASA APOD · Spaceflight News · GNews | Multi-source real-time aggregation, fully client-side, no user accounts or stored data |
-| **📄 ResumeAI Pro**<br/>[Live](https://resume-ai-pro-psi.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/resume-ai-pro) | Browser-based resume diagnostic covering skill gaps, ATS compatibility, impact scoring, and role matching | React · TypeScript · Vite · Tailwind CSS · shadcn/ui · jsPDF · PostHog | 8 analysis engines, 300+ roles, PDF export, no account required |
-| **🎓 Local AI Academic Tutor**<br/>[Repo](https://github.com/Aaradhy-singh/local-llm-academic-tutor) | Offline academic chatbot running a local LLM through Ollama with a Gradio interface | Python · Gradio · Ollama | Fully offline, no external API calls, zero recurring cost |
-| **✨ Gesture Particle Universe**<br/>[Repo](https://github.com/Aaradhy-singh/gesture-particle-universe) | Real-time 3D particle system controlled entirely by hand gestures | Three.js · MediaPipe · GLSL | 9,000 GPU-rendered particles, shipped as a single HTML file with no build step |
+| **💧 JalRakshak**<br/>[Live](https://jalrakshak-bice.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/jalrakshak) | Civic water-awareness platform for Varanasi, with live weather and air-quality observations plus clearly labeled reference information | React · TypeScript · Tailwind CSS · Open-Meteo API · Vercel | Live weather and air-quality observations, locality explorer, methodology and Responsible AI pages, and clearly labeled static reference data |
+| **🚀 SpaceShield**<br/>[Repo](https://github.com/Aaradhy-singh/spaceshield) | Space and defence news dashboard with selected API feeds and Groq-powered article summaries | React · Vite · Tailwind CSS · Groq · NASA APOD · Spaceflight News · GNews | Selected news and space feeds with AI-generated article summaries |
+| **📄 ResumeAI Pro**<br/>[Live](https://resume-ai-pro-psi.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/resume-ai-pro) | Browser-based resume analysis tool with skill-gap feedback, ATS keyword checks, impact feedback, and PDF export | React · TypeScript · Vite · Tailwind CSS · shadcn/ui · jsPDF · PostHog | Rule-based analysis, role comparisons, PDF export, no account required |
+| **🎓 Local AI Academic Tutor**<br/>[Repo](https://github.com/Aaradhy-singh/local-llm-academic-tutor) | Local academic tutor using Ollama through its OpenAI-compatible API | Python · Ollama | Runs against a local Ollama service without an external model API |
+| **✨ Gesture Particle Universe**<br/>[Repo](https://github.com/Aaradhy-singh/gesture-particle-universe) | Interactive 3D particle system controlled by hand gestures | Three.js · MediaPipe · GLSL | Three.js and MediaPipe Hands, shipped as a single HTML file with no build step |
 
 ---
 
@@ -106,9 +101,9 @@ Internship · 4 mos<br/>
 <td>
 
 **Green Skills & Applied AI Intern** &nbsp; <kbd>Present</kbd><br/>
-<sub>Oct 2026 - Present · 1 mo · in partnership with Govt. of Uttar Pradesh, Microsoft, and MeitY Startup Hub</sub>
+<sub>Oct 2026 - Present · Remote</sub>
 
-A 70+ hour program applying AI to climate and sustainability problems across four phases: Foundations, Analysis, Application, and Impact.
+A 70+ hour program focused on applying AI to climate and sustainability problems across four phases: Foundations, Analysis, Application, and Impact.
 
 - Live sessions and weekly assessments on sustainability fundamentals and applied AI
 - Climate action case study work: root-cause mapping, SDG alignment, indicators, and stakeholder analysis
@@ -126,7 +121,7 @@ A 70+ hour program applying AI to climate and sustainability problems across fou
 **AI for Sustainability Intern**<br/>
 <sub>Jul 2026 - Sep 2026 · 3 mos</sub>
 
-During the AI for Sustainability internship, I worked on sustainability-focused AI projects, exploring real-world problem statements and applying prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts.
+The AI for Sustainability internship covered sustainability-focused problem statements, prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts.
 
 - Explored IBM AI tools and labs through guided hands-on workshops
 - Used design thinking to develop sustainability-oriented AI solutions
@@ -146,7 +141,7 @@ During the AI for Sustainability internship, I worked on sustainability-focused 
 
 | Achievement | Details |
 |---|---|
-| 🚀 **Independent Shipping** | 5 projects built and shipped solo across full-stack, GenAI, and computer vision |
+| 🚀 **Projects** | Selected work includes web applications, local AI tools, and interactive graphics |
 | 💼 **Internships** | 1M1B AI for Sustainability (Jul 2026 - Sep 2026) and Green Skills & Applied AI for Climate Action (Oct 2026 - Present) |
 | 📜 **Certifications** | AWS, Oracle, Google, Microsoft, IBM, Hugging Face, Anthropic, JPMorgan Chase |
 | ✉️ **Letter of Recommendation** | From Corizo Edutech, recognizing performance in AI/ML training, Python, data analysis, and project execution |
