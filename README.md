@@ -48,23 +48,38 @@ I’m strengthening my programming and computer science fundamentals while build
 
 ---
 
-## 🤖 Tech Stack
+## 🧰 Languages & Technology
 
-**Languages**
+**Languages**  
+Python · HTML · CSS · JavaScript
 
-![Languages](https://skillicons.dev/icons?i=python,js,ts,java,c)
+**Frontend**  
+HTML · CSS · Vite
 
-**Frontend**
+**Backend**  
+Python · FastAPI
 
-![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,html,css,threejs)
+**Cloud & Version Control**  
+Vercel · GitHub · Git
 
-**Backend & Data**
+---
 
-![Backend](https://skillicons.dev/icons?i=python,fastapi,nodejs)
+## 🛠️ Tools & AI Assistants
 
-**Cloud, DevOps & Tooling**
-
-![Tooling](https://skillicons.dev/icons?i=vercel,github,git,vscode,aws)
+<table>
+<tr>
+<td align="center" width="120"><img src="assets/tool-logos/vscode.svg" width="48" alt="Visual Studio Code logo"/><br/><sub>Visual Studio Code</sub></td>
+<td align="center" width="120"><img src="assets/tool-logos/antigravity.svg" width="48" alt="Antigravity logo"/><br/><sub>Antigravity</sub></td>
+<td align="center" width="120"><img src="assets/tool-logos/cursor.svg" width="48" alt="Cursor logo"/><br/><sub>Cursor</sub></td>
+<td align="center" width="120"><img src="assets/tool-logos/copilot.svg" width="48" alt="GitHub Copilot logo"/><br/><sub>GitHub Copilot</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="assets/tool-logos/claude.svg" width="48" alt="Claude logo"/><br/><sub>Claude</sub></td>
+<td align="center"><img src="assets/tool-logos/chatgpt.svg" width="48" alt="ChatGPT logo"/><br/><sub>ChatGPT</sub></td>
+<td align="center"><img src="assets/tool-logos/codex.svg" width="48" alt="Codex logo"/><br/><sub>Codex</sub></td>
+<td align="center"><img src="assets/tool-logos/gemini.svg" width="48" alt="Gemini logo"/><br/><sub>Gemini</sub></td>
+</tr>
+</table>
 
 ---
 
@@ -79,13 +94,45 @@ I’m strengthening my programming and computer science fundamentals while build
 
 ## 📌 Featured Projects
 
-| Project | Overview | Stack | Highlights |
-|---|---|---|---|
-| **💧 JalRakshak**<br/>[Live](https://jalrakshak-bice.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/jalrakshak) | Civic water-awareness platform for Varanasi, with live weather and air-quality observations plus clearly labeled reference information | React · TypeScript · Tailwind CSS · Open-Meteo API · Vercel | Live weather and air-quality observations, locality explorer, methodology and Responsible AI pages, and clearly labeled static reference data |
-| **🚀 SpaceShield**<br/>[Repo](https://github.com/Aaradhy-singh/spaceshield) | Space and defence news dashboard with selected API feeds and Groq-powered article summaries | React · Vite · Tailwind CSS · Groq · NASA APOD · Spaceflight News · GNews | Selected news and space feeds with AI-generated article summaries |
-| **📄 ResumeAI Pro**<br/>[Live](https://resume-ai-pro-psi.vercel.app/) · [Repo](https://github.com/Aaradhy-singh/resume-ai-pro) | Browser-based resume analysis tool with skill-gap feedback, ATS keyword checks, impact feedback, and PDF export | React · TypeScript · Vite · Tailwind CSS · shadcn/ui · jsPDF · PostHog | Rule-based analysis, role comparisons, PDF export, no account required |
-| **🎓 Local AI Academic Tutor**<br/>[Repo](https://github.com/Aaradhy-singh/local-llm-academic-tutor) | Local academic tutor using Ollama through its OpenAI-compatible API | Python · Ollama | Runs against a local Ollama service without an external model API |
-| **✨ Gesture Particle Universe**<br/>[Repo](https://github.com/Aaradhy-singh/gesture-particle-universe) | Interactive 3D particle system controlled by hand gestures | Three.js · MediaPipe · GLSL | Three.js and MediaPipe Hands, shipped as a single HTML file with no build step |
+<table border="1" bordercolor="#8B5CF6" cellpadding="10" cellspacing="0">
+<thead>
+<tr>
+<th>Project</th><th>Overview</th><th>Stack</th><th>Highlights</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><b>💧 JalRakshak</b><br/><a href="https://jalrakshak-bice.vercel.app/">Live</a> · <a href="https://github.com/Aaradhy-singh/jalrakshak">Repo</a></td>
+<td>Civic water-awareness platform for Varanasi, with live weather and air-quality observations plus clearly labeled reference information</td>
+<td>React · TypeScript · Tailwind CSS · Open-Meteo API · Vercel</td>
+<td>Live weather and air-quality observations, locality explorer, methodology and Responsible AI pages, and clearly labeled static reference data</td>
+</tr>
+<tr>
+<td><b>🚀 SpaceShield</b><br/><a href="https://github.com/Aaradhy-singh/spaceshield">Repo</a></td>
+<td>Space and defence news dashboard with selected API feeds and Groq-powered article summaries</td>
+<td>React · Vite · Tailwind CSS · Groq · NASA APOD · Spaceflight News · GNews</td>
+<td>Selected news and space feeds with AI-generated article summaries</td>
+</tr>
+<tr>
+<td><b>📄 ResumeAI Pro</b><br/><a href="https://resume-ai-pro-psi.vercel.app/">Live</a> · <a href="https://github.com/Aaradhy-singh/resume-ai-pro">Repo</a></td>
+<td>Browser-based resume analysis tool with skill-gap feedback, ATS keyword checks, impact feedback, and PDF export</td>
+<td>React · TypeScript · Vite · Tailwind CSS · shadcn/ui · jsPDF · PostHog</td>
+<td>Rule-based analysis, role comparisons, PDF export, no account required</td>
+</tr>
+<tr>
+<td><b>🎓 Local AI Academic Tutor</b><br/><a href="https://github.com/Aaradhy-singh/local-llm-academic-tutor">Repo</a></td>
+<td>Local academic tutor using Ollama through its OpenAI-compatible API</td>
+<td>Python · Ollama</td>
+<td>Runs against a local Ollama service without an external model API</td>
+</tr>
+<tr>
+<td><b>✨ Gesture Particle Universe</b><br/><a href="https://github.com/Aaradhy-singh/gesture-particle-universe">Repo</a></td>
+<td>Interactive 3D particle system controlled by hand gestures</td>
+<td>Three.js · MediaPipe · GLSL</td>
+<td>Three.js and MediaPipe Hands, shipped as a single HTML file with no build step</td>
+</tr>
+</tbody>
+</table>
 
 ---
 
@@ -93,48 +140,36 @@ I’m strengthening my programming and computer science fundamentals while build
 
 <table>
 <tr>
-<td width="80" align="center"><img src="1m1b-logo.png" width="56" alt="1M1B"/></td>
-<td>
-<b>1M1B (1 Million for 1 Billion)</b><br/>
-Internship · 4 mos<br/>
-<sub>Remote</sub>
-</td>
+<td colspan="2" bgcolor="#17132B"><b>✦ EXPERIENCE TIMELINE</b> &nbsp; · &nbsp; <img src="1m1b-logo.png" width="20" alt="1M1B"/> <b>1M1B (1 Million for 1 Billion)</b> · Remote</td>
 </tr>
 <tr>
-<td align="center">●</td>
+<td width="76" align="center" valign="top"><b>01</b><br/><sub>NOW</sub></td>
 <td>
-
-**Green Skills & Applied AI Intern** &nbsp; <kbd>Present</kbd><br/>
-<sub>Oct 2026 - Present · Remote</sub>
-
+<b>Green Skills & Applied AI Intern</b> &nbsp; <kbd>Present</kbd><br/>
+<sub>Oct 2026 - Present · Remote</sub><br/><br/>
 A 70+ hour program focused on applying AI to climate and sustainability problems across four phases: Foundations, Analysis, Application, and Impact.
-
-- Live sessions and weekly assessments on sustainability fundamentals and applied AI
-- Climate action case study work: root-cause mapping, SDG alignment, indicators, and stakeholder analysis
-- AI-enabled solution design: problem context, AI use case, inputs and outputs, and workflow
-- Building a final AI and sustainability project as the program capstone
-
-📎 **Certificate of Bootcamp Completion**
-
+<ul>
+<li>Live sessions and weekly assessments on sustainability fundamentals and applied AI</li>
+<li>Climate action case study work: root-cause mapping, SDG alignment, indicators, and stakeholder analysis</li>
+<li>AI-enabled solution design: problem context, AI use case, inputs and outputs, and workflow</li>
+<li>Building a final AI and sustainability project as the program capstone</li>
+</ul>
+📎 <b>Certificate of Bootcamp Completion</b>
 </td>
 </tr>
 <tr>
-<td align="center">●</td>
+<td align="center" valign="top"><b>02</b><br/><sub>2026</sub></td>
 <td>
-
-**AI for Sustainability Intern**<br/>
-<sub>Jul 2026 - Sep 2026 · 3 mos</sub>
-
-The AI for Sustainability internship covered sustainability-focused problem statements, prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts.
-
-- Explored IBM AI tools and labs through guided hands-on workshops
-- Used design thinking to develop sustainability-oriented AI solutions
-- Designed and deployed **JalRakshak**, a water-stress awareness platform for Varanasi, as the final project
-
-📎 **IBM Certificate** &nbsp;·&nbsp; 🔗 [JalRakshak live site](https://jalrakshak-bice.vercel.app/)
-
-💎 **Artificial Intelligence (AI) · Retrieval-Augmented Generation (RAG) · +5 skills**
-
+<b>AI for Sustainability Intern</b><br/>
+<sub>Jul 2026 - Sep 2026 · 3 mos</sub><br/><br/>
+The internship covered sustainability-focused problem statements, prompt engineering, Agentic AI, RAG, IBM Granite models, and introductory quantum computing concepts.
+<ul>
+<li>Explored IBM AI tools and labs through guided hands-on workshops</li>
+<li>Used design thinking to develop sustainability-oriented AI solutions</li>
+<li>Designed and deployed <b>JalRakshak</b>, a water-stress awareness platform for Varanasi, as the final project</li>
+</ul>
+📎 <b>IBM Certificate</b> &nbsp;·&nbsp; 🔗 <a href="https://jalrakshak-bice.vercel.app/">JalRakshak live site</a><br/><br/>
+💎 <b>Artificial Intelligence (AI) · Retrieval-Augmented Generation (RAG) · +5 skills</b>
 </td>
 </tr>
 </table>
