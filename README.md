@@ -151,7 +151,7 @@ Internship · 4 mos<br/>
 </td>
 </tr>
 <tr>
-<td align="center" valign="top">●<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</td>
+<td align="center" valign="top">●<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│<br/>│</td>
 <td>
 <b>Green Skills & Applied AI Intern</b> &nbsp; <kbd>Present</kbd><br/>
 <sub>Oct 2026 - Present · Remote</sub><br/><br/>
