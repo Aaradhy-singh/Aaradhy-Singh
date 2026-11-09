@@ -24,21 +24,14 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Generate snake assets (high contrast + stylish)
+      - name: Generate snake assets
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            # LIGHT: very visible low cells + hot pink snake with border
             dist/github-snake.svg?color_snake=#FF007A&color_snake_border=#FFFFFF&color_dots=#F2F2F2,#D9F99D,#86EFAC,#22C55E,#15803D
-
-            # DARK: black empty cells + visible outlines + green activity levels
             dist/github-snake-dark.svg?color_snake=#00E5FF&color_snake_border=#0D0221&color_dots=#0D1117,#B7F7D0,#70E1A0,#2FAF70,#146B45
-
-            # STYLISH ALT: purple-electric theme (different from usual)
             dist/github-snake-electric.svg?color_snake=#C800FF&color_snake_border=#FFFFFF&color_dots=#EEF2FF,#C4B5FD,#A78BFA,#7C3AED,#4C1D95
-
-            # Optional GIF version
             dist/github-snake.gif?color_snake=#FF007A&color_snake_border=#FFFFFF&color_dots=#1F2937,#A7F3D0,#6EE7B7,#34D399,#059669
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
