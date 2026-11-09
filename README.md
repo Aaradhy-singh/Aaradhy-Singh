@@ -64,7 +64,7 @@ I’m strengthening my programming and computer science fundamentals while build
 <td align="center" width="140">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
      width="36"
-     height="40"
+     height="50"
      alt="CSS3 logo"/>
 <sub>CSS</sub>
 </td>
