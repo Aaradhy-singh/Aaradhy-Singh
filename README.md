@@ -136,7 +136,7 @@ I’m strengthening my programming and computer science fundamentals while build
 <table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0">
 <tr>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code logo"/><br/>
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="36" height="36" alt="Visual Studio Code logo"/><br/>
 <sub>Visual Studio Code</sub>
 </td>
 
@@ -151,7 +151,7 @@ I’m strengthening my programming and computer science fundamentals while build
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/githubcopilot/ffffff" width="36" height="36" alt="GitHub Copilot logo"/><br/>
+<img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="36" height="36" alt="GitHub Copilot logo"/><br/>
 <sub>GitHub Copilot</sub>
 </td>
 </tr>
@@ -163,12 +163,12 @@ I’m strengthening my programming and computer science fundamentals while build
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai/ffffff" width="36" height="36" alt="ChatGPT logo"/><br/>
+<img src="https://cdn.simpleicons.org/openai/000000" width="36" height="36" alt="ChatGPT logo"/><br/>
 <sub>ChatGPT</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai/ffffff" width="36" height="36" alt="OpenAI Codex logo"/><br/>
+<img src="https://cdn.simpleicons.org/openai/000000" width="36" height="36" alt="OpenAI Codex logo"/><br/>
 <sub>Codex</sub>
 </td>
 
