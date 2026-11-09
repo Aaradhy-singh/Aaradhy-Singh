@@ -62,11 +62,16 @@ I’m strengthening my programming and computer science fundamentals while build
 <sub>HTML</sub>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-     width="36"
-     height="50"
-     alt="CSS3 logo"/>
-<sub>CSS</sub>
+  <div align="center">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+      width="36"
+      height="36"
+      alt="CSS3 logo"
+    />
+    <br/>
+    <sub>CSS</sub>
+  </div>
 </td>
 <td align="center" width="140">
 <img src="assets/tech-logos/javascript.svg" width="36" height="36" alt="JavaScript logo"/><br/>
@@ -84,11 +89,16 @@ I’m strengthening my programming and computer science fundamentals while build
 <sub>HTML</sub>
 </td>
 <td align="center" width="140">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-     width="36"
-     height="40"
-     alt="CSS3 logo"/>
-<sub>CSS</sub>
+  <div align="center">
+    <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"
+      width="36"
+      height="36"
+      alt="CSS3 logo"
+    />
+    <br/>
+    <sub>CSS</sub>
+  </div>
 </td>
 <td align="center" width="140">
 <img src="assets/tech-logos/vite.svg" width="36" height="36" alt="Vite logo"/><br/>
