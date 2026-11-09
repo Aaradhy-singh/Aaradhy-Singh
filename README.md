@@ -136,7 +136,7 @@ I’m strengthening my programming and computer science fundamentals while build
 <table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0">
 <tr>
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" width="36" height="36" alt="Visual Studio Code logo"/><br/>
+<img src="assets/tool-logos/vscode.svg" width="36" height="36" alt="Visual Studio Code logo"/><br/>
 <sub>Visual Studio Code</sub>
 </td>
 
@@ -146,34 +146,34 @@ I’m strengthening my programming and computer science fundamentals while build
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="36" height="36" alt="Cursor logo"/><br/>
+<img src="assets/tool-logos/cursor.svg" width="36" height="36" alt="Cursor logo"/><br/>
 <sub>Cursor</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="36" height="36" alt="GitHub Copilot logo"/><br/>
+<img src="assets/tool-logos/copilot.svg" width="36" height="36" alt="GitHub Copilot logo"/><br/>
 <sub>GitHub Copilot</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="36" height="36" alt="Claude logo"/><br/>
+<img src="assets/tool-logos/claude.svg" width="36" height="36" alt="Claude logo"/><br/>
 <sub>Claude</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="36" height="36" alt="ChatGPT logo"/><br/>
+<img src="assets/tool-logos/chatgpt.svg" width="36" height="36" alt="ChatGPT logo"/><br/>
 <sub>ChatGPT</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="36" height="36" alt="OpenAI Codex logo"/><br/>
+<img src="assets/tool-logos/codex.svg" width="36" height="36" alt="Codex logo"/><br/>
 <sub>Codex</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" width="36" height="36" alt="Google Gemini logo"/><br/>
+<img src="assets/tool-logos/gemini.svg" width="36" height="36" alt="Gemini logo"/><br/>
 <sub>Gemini</sub>
 </td>
 </tr>
