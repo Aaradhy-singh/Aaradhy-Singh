@@ -136,42 +136,48 @@ I’m strengthening my programming and computer science fundamentals while build
 <table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0">
 <tr>
 <td align="center" width="140">
-<img src="assets/tool-logos/vscode.svg" width="36" height="36" alt="Visual Studio Code logo"/><br/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="36" height="36" alt="Visual Studio Code logo"/><br/>
 <sub>Visual Studio Code</sub>
 </td>
+
 <td align="center" width="140">
 <img src="assets/tool-logos/antigravity.svg" width="36" height="36" alt="Antigravity logo"/><br/>
 <sub>Antigravity</sub>
 </td>
+
 <td align="center" width="140">
-<img src="assets/tool-logos/cursor.svg" width="36" height="36" alt="Cursor logo"/><br/>
+<img src="https://cdn.simpleicons.org/cursor/ffffff" width="36" height="36" alt="Cursor logo"/><br/>
 <sub>Cursor</sub>
 </td>
+
 <td align="center" width="140">
-<img src="assets/tool-logos/copilot.svg" width="36" height="36" alt="GitHub Copilot logo"/><br/>
+<img src="https://cdn.simpleicons.org/githubcopilot/ffffff" width="36" height="36" alt="GitHub Copilot logo"/><br/>
 <sub>GitHub Copilot</sub>
 </td>
 </tr>
+
 <tr>
 <td align="center" width="140">
-<img src="assets/tool-logos/claude.svg" width="36" height="36" alt="Claude logo"/><br/>
+<img src="https://cdn.simpleicons.org/anthropic/D97757" width="36" height="36" alt="Claude logo"/><br/>
 <sub>Claude</sub>
 </td>
+
 <td align="center" width="140">
-<img src="assets/tool-logos/chatgpt.svg" width="36" height="36" alt="ChatGPT logo"/><br/>
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="36" height="36" alt="ChatGPT logo"/><br/>
 <sub>ChatGPT</sub>
 </td>
+
 <td align="center" width="140">
-<img src="assets/tool-logos/codex.svg" width="36" height="36" alt="Codex logo"/><br/>
+<img src="https://cdn.simpleicons.org/openai/ffffff" width="36" height="36" alt="OpenAI Codex logo"/><br/>
 <sub>Codex</sub>
 </td>
+
 <td align="center" width="140">
-<img src="assets/tool-logos/gemini.svg" width="36" height="36" alt="Gemini logo"/><br/>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="36" height="36" alt="Gemini logo"/><br/>
 <sub>Gemini</sub>
 </td>
 </tr>
 </table>
-
 ---
 
 
