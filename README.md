@@ -136,7 +136,7 @@ I’m strengthening my programming and computer science fundamentals while build
 <table border="1" bordercolor="#3D4656" cellpadding="9" cellspacing="0">
 <tr>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="36" height="36" alt="Visual Studio Code logo"/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg" width="36" height="36" alt="Visual Studio Code logo"/><br/>
 <sub>Visual Studio Code</sub>
 </td>
 
@@ -146,34 +146,34 @@ I’m strengthening my programming and computer science fundamentals while build
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/cursor/ffffff" width="36" height="36" alt="Cursor logo"/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cursor.svg" width="36" height="36" alt="Cursor logo"/><br/>
 <sub>Cursor</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/githubcopilot/8957E5" width="36" height="36" alt="GitHub Copilot logo"/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" width="36" height="36" alt="GitHub Copilot logo"/><br/>
 <sub>GitHub Copilot</sub>
 </td>
 </tr>
 
 <tr>
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/anthropic/D97757" width="36" height="36" alt="Claude logo"/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" width="36" height="36" alt="Claude logo"/><br/>
 <sub>Claude</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai/000000" width="36" height="36" alt="ChatGPT logo"/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="36" height="36" alt="ChatGPT logo"/><br/>
 <sub>ChatGPT</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/openai/000000" width="36" height="36" alt="OpenAI Codex logo"/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" width="36" height="36" alt="OpenAI Codex logo"/><br/>
 <sub>Codex</sub>
 </td>
 
 <td align="center" width="140">
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="36" height="36" alt="Gemini logo"/><br/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" width="36" height="36" alt="Google Gemini logo"/><br/>
 <sub>Gemini</sub>
 </td>
 </tr>
